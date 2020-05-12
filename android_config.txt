@@ -1,0 +1,4 @@
+ANDROID_NDK:/data_1/Projects/android/android-ndk-r16
+PROTOBUF_DIR:/data_1/Projects/android/android_gnu_shared/protobuf_lib
+BLAS_DIR:/data_1/Projects/android/android_gnu_shared/openbla020_android
+CONFIG_ARCH_TYPE:ARMv8
